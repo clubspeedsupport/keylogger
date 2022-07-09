@@ -5,6 +5,8 @@ cd into the directory of the script
 
 python3 cain.py 
 
-Close terminal window to exit stop keylogging
+Close terminal window to exit / stop keylogging
+
+
 
 
